@@ -40,6 +40,16 @@ A curated list of the best data engineering and data analytics jobs, updated dai
 | Doyensys Inc | Data Engineer | 📍 Mexico | Apr 10 | [Apply](https://starjobs.dev/jobs/b11f58a3bef64feb8abf339a9709cfd5?utm=github) |
 | Pearl West Group | Full Stack Shopify Developer | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/7871f31b32244cc8b2257165e5a1f5e3?utm=github) |
 | Weekday AI (YC W21) | Backend Engineer Job (Remote) | 📍 India | Apr 10 | [Apply](https://starjobs.dev/jobs/1b9ec71a259b41d7910038c879917b1d?utm=github) |
+| Claroty | Data Engineer | 📍 Mumbai, Maharashtra, India | Apr 10 | [Apply](https://starjobs.dev/jobs/4b86938f24d44a2196511b9176e90395?utm=github) |
+| Tiger Analytics | Data Scientist(GenAI) | 📍 Dallas, TX | Apr 10 | [Apply](https://starjobs.dev/jobs/c798278c79984e789244aeea33637f84?utm=github) |
+| Tiger Analytics | Data Scientist(GenAI) | 📍 Toronto, Ontario, Canada | Apr 10 | [Apply](https://starjobs.dev/jobs/57733eb0b03048aebd8419a1cebdf45e?utm=github) |
+| Skipso | Full Stack Developer at Skipso | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/609e6bdd9d7445729a42786939860f42?utm=github) |
+| AGCO Corporation | Data Scientist I | 📍 Pune, Maharashtra, India | Apr 10 | [Apply](https://starjobs.dev/jobs/59696f1f16ee444da87ed79b0fe20bc8?utm=github) |
+| Forsyth Barnes | Data Engineer | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/d8f32c982e0e4836a71b42a8ae6171f5?utm=github) |
+| Boost IT | Azure Data Engineer - PORTUGAL - Full remote | 📍 Portugal | Apr 10 | [Apply](https://starjobs.dev/jobs/7e3b76c849e349cd85ef2c598313865a?utm=github) |
+| Neo4j | Full-Stack Software Engineer - Enablement | 📍 London Area, United Kingdom | Apr 10 | [Apply](https://starjobs.dev/jobs/1f7e6695a9dc4b189dd157b705755ccf?utm=github) |
+| Neo4j | Software Engineer - Enablement | 📍 London Area, United Kingdom | Apr 10 | [Apply](https://starjobs.dev/jobs/072f91b93b494141aa0cc2fd2e630853?utm=github) |
+| Esprimo S.r.l. | Cloud Data Engineer/PowerBI | 📍 Italy | Apr 10 | [Apply](https://starjobs.dev/jobs/12c5af9d3587482ab5f4c45bfcffc257?utm=github) |
 
 
 ## About This List
@@ -52,9 +62,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
-* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
-* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
 * [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
-* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
+* [Awesome Backend Jobs](https://github.com/bansalnagesh/awesome-backend-jobs)
+* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
+* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
+* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
