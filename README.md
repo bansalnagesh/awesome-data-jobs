@@ -6,25 +6,25 @@ A curated list of the best data engineering and data analytics jobs, updated dai
 
 ## Latest Jobs
 
-*Updated on 2025-04-12*
+*Updated on 2025-04-16*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| JSS Search | Credit Data Analyst | 📍 London Area, United Kingdom | Apr 10 | [Apply](https://starjobs.dev/jobs/cce8f3db5db34f3c925d09176cf6a011?utm=github) |
-| Omilia | BI & Data Analyst | 🌐 Remote | Apr 09 | [Apply](https://starjobs.dev/jobs/a9684e148c614dad95fa0eb9f373b6c4?utm=github) |
-| Develocraft | Senior Data Engineer | 🌐 Remote | Apr 09 | [Apply](https://starjobs.dev/jobs/11e4705cb23b463fa9576ade23d6111b?utm=github) |
-| Athsai | Data Engineer | 🌐 Remote | Apr 09 | [Apply](https://starjobs.dev/jobs/898f5fc4239848c08404cfb1967f8030?utm=github) |
-| Zirak | Data engineer / Machine Learning engineer | 🌐 Remote | Apr 09 | [Apply](https://starjobs.dev/jobs/ab98a398f579405a9e1fab6e3d47f452?utm=github) |
-| Soda Data | Senior Data Engineer | 🌐 Remote | Apr 08 | [Apply](https://starjobs.dev/jobs/2125381095e34b3ca6ad13b6a2c3b479?utm=github) |
-| Doyensys Inc | AWS Data Engineer | 📍 Mexico | Apr 08 | [Apply](https://starjobs.dev/jobs/0fc11ee5f8714c9cbcd0b093f2aff299?utm=github) |
-| iVisa | Data Analyst | 🌐 Remote | Apr 08 | [Apply](https://starjobs.dev/jobs/2eb6527842904591a2dc9fb74b67e641?utm=github) |
-| Akkodis | Data Analyst | 📍 United States | Apr 08 | [Apply](https://starjobs.dev/jobs/c51b7d61df064deea324f7e879a82fc9?utm=github) |
-| Investech-blue | Data Engineer | 📍 Italy | Apr 08 | [Apply](https://starjobs.dev/jobs/bfaecb947769475a88c4b4f1d864c2ae?utm=github) |
-| Nextar | Data Engineer | 📍 Italy | Apr 08 | [Apply](https://starjobs.dev/jobs/981f888a2380413b9e6eee41c3a427ad?utm=github) |
-| Automattic Careers | Financial Data Engineer | 🌐 Remote | Apr 08 | [Apply](https://starjobs.dev/jobs/d0f51a2462454c2394a3d1925c657ba7?utm=github) |
-| Kleboe Jardine Ltd | Data Engineer | 📍 United Kingdom | Apr 08 | [Apply](https://starjobs.dev/jobs/25a0c3ba9a4c4d8ea905be6ad4eb5d70?utm=github) |
-| Esprimo S.r.l. | Data Analyst/ Power BI Developer | 📍 Italy | Apr 08 | [Apply](https://starjobs.dev/jobs/d5d29b9a59c743b2a23e20cbe192e407?utm=github) |
-| Rock Bund Capital | AI Data Analyst | 🌐 Remote | Apr 07 | [Apply](https://starjobs.dev/jobs/35d1933281ad472db5324cbca66a641a?utm=github) |
+| Insight Global | Data Analyst | 📍 San Bruno, CA | Apr 16 | [Apply](https://starjobs.dev/jobs/2bc8748aef974aada6049759f2a1b8e6?utm=github) |
+| HCLTech | Data Engineer/ Snowflake Specialist | 📍 Mexico | Apr 16 | [Apply](https://starjobs.dev/jobs/e82bdf4e0c5840b08b4d2a27c19ecb16?utm=github) |
+| Insight Global | Data Engineer 💰 | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/b500ffbc48794d5889296e2072079198?utm=github) |
+| knowmad mood | Data Engineer (freelance) | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/0cdb323ca1074db2b357afe06ed286c5?utm=github) |
+| SPECTRAFORCE | Data Analyst | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/dff87087a6a14a77ba863ad556771803?utm=github) |
+| Intellias | Senior Data Engineer | 📍 Croatia | Apr 16 | [Apply](https://starjobs.dev/jobs/35fa32d2c84847a1932fc07b940dc8e8?utm=github) |
+| Harvey Nash | Data Analyst | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/8e8d3da6abe348a0baa95593c5613176?utm=github) |
+| Stefanini LATAM | Data Engineer (Python & GCP) - 100% remoto- USD | 📍 Brazil | Apr 16 | [Apply](https://starjobs.dev/jobs/01b8ac1a0f6a47fe8011992c826bad40?utm=github) |
+| Minsait | Data Engineer Python & Cloud (100% Teletrabajo) | 📍 Spain | Apr 16 | [Apply](https://starjobs.dev/jobs/56acb18e8a8846ff9f2e6a95d7393523?utm=github) |
+| NRG Energy | Analyst, Data Analytics - Remote | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/46d47a6d39264480b8f0f628d9e1a491?utm=github) |
+| SoTalent | Data Engineer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/11715f19c37c4bfe91e2c4f609f1ccfe?utm=github) |
+| Lufthansa Industry Solutions | Senior Data Engineer (all genders) | 📍 Cologne, North Rhine-Westphalia, Germany | Apr 15 | [Apply](https://starjobs.dev/jobs/a47b534df3194f688307f3947ee5bc06?utm=github) |
+| Hire With Near | Data Analyst | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/93405ec318e24d1988a03cdd2c836adc?utm=github) |
+| Lufthansa Industry Solutions | Senior Data Engineer (all genders) | 📍 Hamburg, Hamburg, Germany | Apr 15 | [Apply](https://starjobs.dev/jobs/19af04a38dfd4f64997c2ecee70922d5?utm=github) |
+| Bluetab, an IBM Company | 🌟 Azure & Spark Data Engineer – International Data Projects 🌍🚀 | 🌐 Remote | Apr 15 | [Apply](https://starjobs.dev/jobs/c0c3ab1566ea4a5fab5a51c085bf0d0a?utm=github) |
 
 
 ## About This List
@@ -37,9 +37,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
-* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
-* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
-* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
-* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
 * [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
+* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
+* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
+* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
+* [Entry Level Tech Jobs](https://github.com/bansalnagesh/entry-level-tech-jobs)
+* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
